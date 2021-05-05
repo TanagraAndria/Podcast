@@ -1,7 +1,7 @@
 ![alt text](public/logo.svg)
 
 
-## Player de Podcats
+## Player de Podcasts
 
 Tecnologias Utilizadas:
 
